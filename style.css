@@ -567,6 +567,10 @@ span{
    
 }
 
+#header h1.brand{
+    margin: 10px 10px 10px 0px;
+}
+
 #header .nav-list ul{
     list-style: none;
 	position: absolute;
